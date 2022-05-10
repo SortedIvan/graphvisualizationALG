@@ -1,0 +1,47 @@
+C:\TUe Math\Algorithms2\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.exe
+C:\TUe Math\Algorithms2\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.deps.json
+C:\TUe Math\Algorithms2\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.runtimeconfig.json
+C:\TUe Math\Algorithms2\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.runtimeconfig.dev.json
+C:\TUe Math\Algorithms2\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.dll
+C:\TUe Math\Algorithms2\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.pdb
+C:\TUe Math\Algorithms2\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.csproj.AssemblyReference.cache
+C:\TUe Math\Algorithms2\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.Form1.resources
+C:\TUe Math\Algorithms2\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.csproj.GenerateResource.cache
+C:\TUe Math\Algorithms2\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.GeneratedMSBuildEditorConfig.editorconfig
+C:\TUe Math\Algorithms2\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.AssemblyInfoInputs.cache
+C:\TUe Math\Algorithms2\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.AssemblyInfo.cs
+C:\TUe Math\Algorithms2\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.csproj.CoreCompileInputs.cache
+C:\TUe Math\Algorithms2\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.dll
+C:\TUe Math\Algorithms2\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.pdb
+C:\TUe Math\Algorithms2\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.exe
+C:\Users\Lenovo\Desktop\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.deps.json
+C:\Users\Lenovo\Desktop\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.dll
+C:\Users\Lenovo\Desktop\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.pdb
+C:\Users\Lenovo\Desktop\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.Form1.resources
+C:\Users\Lenovo\Desktop\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.dll
+C:\Users\Lenovo\Desktop\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.pdb
+C:\Users\Lenovo\Desktop\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.genruntimeconfig.cache
+C:\Users\ivano\OneDrive\Desktop\Algorithm thing\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.exe
+C:\Users\ivano\OneDrive\Desktop\Algorithm thing\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.deps.json
+C:\Users\ivano\OneDrive\Desktop\Algorithm thing\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.runtimeconfig.json
+C:\Users\ivano\OneDrive\Desktop\Algorithm thing\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.runtimeconfig.dev.json
+C:\Users\ivano\OneDrive\Desktop\Algorithm thing\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.dll
+C:\Users\ivano\OneDrive\Desktop\Algorithm thing\Week 1 Assignment\GraphVisualization\GraphVisualization\bin\Debug\netcoreapp3.1\GraphVisualization.pdb
+C:\Users\ivano\OneDrive\Desktop\Algorithm thing\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.csproj.AssemblyReference.cache
+C:\Users\ivano\OneDrive\Desktop\Algorithm thing\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.Form1.resources
+C:\Users\ivano\OneDrive\Desktop\Algorithm thing\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.csproj.GenerateResource.cache
+C:\Users\ivano\OneDrive\Desktop\Algorithm thing\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivano\OneDrive\Desktop\Algorithm thing\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.AssemblyInfoInputs.cache
+C:\Users\ivano\OneDrive\Desktop\Algorithm thing\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.AssemblyInfo.cs
+C:\Users\ivano\OneDrive\Desktop\Algorithm thing\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\Desktop\Algorithm thing\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.dll
+C:\Users\ivano\OneDrive\Desktop\Algorithm thing\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.pdb
+C:\Users\ivano\OneDrive\Desktop\Algorithm thing\Week 1 Assignment\GraphVisualization\GraphVisualization\obj\Debug\netcoreapp3.1\GraphVisualization.genruntimeconfig.cache
